@@ -16,4 +16,6 @@ Per ogni dubbio o problema o consiglio o malfunzionamento contattatemi direttame
 
 ostino
 
+____
+
 Ps. Un enorme GRAZIE a tutta la comunità italiana di Blackout Rugby per l'aiuto datomi per realizzare questo tool ed in particolare un GRAZIE a greg70 e MrZeta51 (in rigoroso ordine alfabetico) per la loro enorme pazienza ed abnegazione nella raccolta e stesura del db delle frasi che utilizza il programma.
