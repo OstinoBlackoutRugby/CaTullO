@@ -2,7 +2,6 @@ CaTullO
 =======
 
 ...tool che permette di analizzare la cronaca in Blackout Rugby
-
 ======
 
 Questo è un semplice tool scritto in Java per analizzare la cronaca di una partita di Blackout Rugby (c).
